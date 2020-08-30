@@ -1,2 +1,2 @@
-# bigdata-cloud
-Repository for all exercises and code for Ironhack Big Data &amp; Cloud deployment workshop
+# Flask Challenge
+Repository with challenge for creating a Flask app for spam detection
