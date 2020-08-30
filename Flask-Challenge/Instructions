@@ -1,0 +1,11 @@
+# Instructions for Flask Lab
+
+Train a model for sentiment analysis based on the corpus found in the data folder
+
+Navigate into the Flask app template within your terminal/python IDE
+
+execute the existing app code in order to start the server. 
+go to http://localhost:5000 and check the flask app is running
+
+
+Now go to the app.py and read the instructions to follow
